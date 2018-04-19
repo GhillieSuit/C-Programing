@@ -1,0 +1,5 @@
+D:\Users\Documents\GitHub\2018.04.12\DogLifeWindowsFormsApp\WindowsFormsApp1\obj\Debug\DogLifeWindowsFormsApp.csprojResolveAssemblyReference.cache
+D:\Users\Documents\GitHub\2018.04.12\DogLifeWindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Users\Documents\GitHub\2018.04.12\DogLifeWindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\Documents\GitHub\2018.04.12\DogLifeWindowsFormsApp\WindowsFormsApp1\obj\Debug\DogLifeWindowsFormsApp.csproj.GenerateResource.cache
+D:\Users\Documents\GitHub\2018.04.12\DogLifeWindowsFormsApp\WindowsFormsApp1\obj\Debug\DogLifeWindowsFormsApp.csproj.CoreCompileInputs.cache
